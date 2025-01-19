@@ -1,9 +1,11 @@
 //Disclaimer ini saya belajar dasar tentang DOM (Data Object Model) di javascript. Yang saya pelajari di commit hari ini adalah 1. Data selector, 2. Styling selector, 3. Querry Selector
 // 4. ById and ByClassname, 5. Event props, 6. Event trigger, 7. Evenet Combination, 8. Mouse Event, 9. Event Combination 2 
 
+
 document.title = 'fajar'
 const body = document.body
 // Temukan perbedaan antara 3 function js ini:
+// Ini sekedar Materi dan Praktek sederhana
 const h1 = document.createElement('h1')
 h1.textContent = '<marquee>halo bro</marquee>'
 
